@@ -1,0 +1,52 @@
+
+{
+  "posts": [
+    { 
+  "id": 1,
+  "title": "Selenium with C",
+  "author": "George BB"
+ },
+ {
+  "id":2,
+  "title":"Appium",
+  "author": "George AA"
+ },
+ {
+  "id": 3
+ }
+  ],
+  "comments": [
+    {
+  "id": 1,
+  "body": "Excellent course",
+  "postId": 1
+ }
+  ],
+  "profile": {
+ "name": "Jacob"
+  },
+  "address":{
+  "primary":[
+   {
+    "ciry":"Auckland",
+    "state":"Auckland",
+    "country":"New Zealand",
+    "pinCode": 1010
+   },
+   {
+    "ciry":"Queenatown",
+    "state":"Queenatown",
+    "country":"New Zealand",
+    "pinCode": 34232
+   }
+  ],
+  "secondary":[
+   {
+    "ciry":"Auckland",
+    "state":"Auckland",
+    "country":"New Zealand",
+    "pinCode": 1010
+   }
+  ]
+ }
+}
